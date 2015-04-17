@@ -1,9 +1,11 @@
 Suivi des taches
 ====================
 ##Principales fonctionnalités
+
 ### Onglet "Liste"
 * Voir la liste des taches
 * Ajouter une taches
+
 ### Onglet "Travail"
 * Voir la tache n°1
 * Lancer le travail
